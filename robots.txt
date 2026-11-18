@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationrogers.com/sitemap.xml
